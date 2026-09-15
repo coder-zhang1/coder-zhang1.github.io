@@ -1,8 +1,8 @@
 ---
 title: learn markdown again
 date: 2026-9-15
-categories: learn
-tags: markdown
+categories: [learn]
+tags: [markdown]
 ---
 我是一段文本。
 我是第二段文字。
