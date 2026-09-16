@@ -159,4 +159,4 @@ x+3y=10
 \sqrt[3]{5}
 $$
 ## 15.嵌入视频
-{% include embed/{youtube}.html id='{H-B46URT4mg}' %}
+{% include embed/bilibili.html id='BV1RWYM6eEsJ' %}
