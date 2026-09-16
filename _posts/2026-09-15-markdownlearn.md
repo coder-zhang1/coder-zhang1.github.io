@@ -73,7 +73,7 @@ math: true
 ### 2.加Esc下面的三个点,在点后加语言名称。
 
 ### 3.语言内的代码，比如C++中`sort()`的方法,可以在两侧各加一个点
-```C++
+```cpp
 #include<bits/stdc++.h>
 int main()
 {
