@@ -135,7 +135,7 @@ eg.[baidu][a],点击文字[coder-zhang1][b]，访问百度
 ### 2.开头加一个感叹号\!\[\]\(\)
 ### 3.html
 
-![图片无法加载](https://assets.699pic.com/public/web/images/600/982/804.jpg!seo.v1)
+<!-- ![图片无法加载](https://assets.699pic.com/public/web/images/600/982/804.jpg!seo.v1) -->
 
 ## 10.表格
 |       name       | age | sex    |
@@ -145,7 +145,7 @@ eg.[baidu][a],点击文字[coder-zhang1][b]，访问百度
 
 ## 12.html
 1. <u>html的内容好像基本的都可以用</u>，<small>比如图片控制</small>，换行，<span style="color: red;font-size:25px">加颜色</span>。
-<img style="width: 200px" src="https://assets.699pic.com/public/web/images/600/982/804.jpg!seo.v1">
+<!-- <img style="width: 200px" src="https://assets.699pic.com/public/web/images/600/982/804.jpg!seo.v1" alt = "图片无法显示"/ > -->
 
 ## 13.扩展语法
 1. <mark>gaoliang</mark>
