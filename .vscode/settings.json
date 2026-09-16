@@ -27,5 +27,5 @@
   "terminal.integrated.profiles.osx": {
     "zsh": { "path": "/bin/zsh", "args": ["-l", "-i"] }
   },
-  "markdown.validate.enabled": true
+  "markdown.validate.enabled": false
 }
