@@ -3,6 +3,7 @@ title: learn markdown again
 date: 2026-9-15
 categories: [learn]
 tags: [markdown]
+math: true
 ---
 我是一段文本。
 我是第二段文字。
@@ -72,18 +73,14 @@ tags: [markdown]
 ### 2.加Esc下面的三个点,在点后加语言名称。
 
 ### 3.语言内的代码，比如C++中`sort()`的方法,可以在两侧各加一个点
-
-    #include<stdio.h>
-    int main()
-    {
-      print("hello,markdown");
-    }
-
 ```C++
-#include<iostream>
-int main(void)
+#include<bits/stdc++.h>
+int main()
 {
-  std::cout<<"hello,markdown";
+  vector<int> a={3,4,2,1,5};
+  sort(a.begin(),a.end());
+  rep(i,0,4) cout<<a[i]<<" ";
+  return 0;
 }
 ```
 
@@ -161,3 +158,5 @@ $$
 x+3y=10  
 \sqrt[3]{5}
 $$
+## 15.嵌入视频
+{% include embed/{youtube}.html id='{H-B46URT4mg}' %}
